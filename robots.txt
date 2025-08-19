@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jpbarddal.github.io/sitemap.xml
+Sitemap: https://www.ppgia.pucpr.br//~jean.barddal/sitemap.xml
